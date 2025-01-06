@@ -1,0 +1,8 @@
+header form figure img{
+    width:200px;
+    height: 200px;
+}
+header > label> input{
+    display: flex;
+    
+}
